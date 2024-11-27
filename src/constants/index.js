@@ -239,6 +239,27 @@ import {
       image: tripguide,
       source_code_link: "https://github.com/anish877/dns-server/tree/master",
     },
+    {
+      name: "Works for my client",
+      description:
+        "This is a portfolio website i made for one of my clients, using GASP animations",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "GASP",
+          color: "green-text-gradient",
+        },
+        {
+          name: "webflow",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://pihu-portfolio.webflow.io/",
+    },
   ];
   
   export { services, technologies, experiences, testimonials, projects };
