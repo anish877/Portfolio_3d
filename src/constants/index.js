@@ -257,7 +257,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: hellow,
       source_code_link: "https://pihu-portfolio.webflow.io/",
     },
   ];
